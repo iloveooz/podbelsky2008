@@ -1,0 +1,40 @@
+	
+	
+	
+	
+	
+	
+		
+	}
+		
+		
+		
+		
+		
+	}
+		}
+		return 0;
+	int main() {
+		cout << endl;
+		cout.fill(' ');
+			cout << ar[i];
+			cout.width(wid);
+	#include <iostream>
+		cout.precision(2);
+	using namespace std;
+		arPrint(arLen, dar, 1);
+		arPrint(arLen, dar, 1);
+		arPrint(arLen, dar, 12);
+		arPrint(arLen, dar, 12);
+		arPrint(arLen, dar, 12);
+		cout.setf(ios::scientific);
+		for(int i = 0; i < len; i++) {
+		cout.setf(ios::scientific | ios::right);
+		int arLen = sizeof(dar) / sizeof(dar[0]);
+	void arPrint(int len, double ar[], int wid) {
+		double dar[] = { -12e-2, +34, -5678, 91.23 };
+			//  минимальная ширина поля
+		cout.setf(ios::left, ios::floatfield | ios::adjustfield);
+		cout.setf(ios::internal, ios::floatfield | ios::adjustfield);
+//p19_01.cpp - форматирование при выводе
+		// символ для заполнения пустых позиций
